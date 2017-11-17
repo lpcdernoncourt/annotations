@@ -34,10 +34,5 @@
             "Collective\\Annotations\\": "src/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.5-stable"
-        }
-    },
     "minimum-stability": "stable"
 }

@@ -1,9 +1,11 @@
 ## Annotations for The Laravel Framework
 
-[![Build Status](https://travis-ci.org/LaravelCollective/annotations.svg)](https://travis-ci.org/LaravelCollective/annotations)
-[![Total Downloads](https://poser.pugx.org/LaravelCollective/annotations/downloads)](https://packagist.org/packages/laravelcollective/annotations)
-[![Latest Stable Version](https://poser.pugx.org/LaravelCollective/annotations/v/stable.svg)](https://packagist.org/packages/laravelcollective/annotations)
-[![Latest Unstable Version](https://poser.pugx.org/LaravelCollective/annotations/v/unstable.svg)](https://packagist.org/packages/laravelcollective/annotations)
-[![License](https://poser.pugx.org/LaravelCollective/annotations/license.svg)](https://packagist.org/packages/laravelcollective/annotations)
+To Laravel 5.5
+
+[![Build Status](https://travis-ci.org/lpcdernoncourt/annotations.svg?branch=5.5)](https://travis-ci.org/lpcdernoncourt/annotations)
+[![Total Downloads](https://poser.pugx.org/lpcdernoncourt/annotations/downloads)](https://packagist.org/packages/lpcdernoncourt/annotations)
+[![Latest Stable Version](https://poser.pugx.org/lpcdernoncourt/annotations/v/stable.svg)](https://packagist.org/packages/lpcdernoncourt/annotations)
+[![Latest Unstable Version](https://poser.pugx.org/lpcdernoncourt/annotations/v/unstable.svg)](https://packagist.org/packages/lpcdernoncourt/annotations)
+[![License](https://poser.pugx.org/lpcdernoncourt/annotations/license.svg)](https://packagist.org/packages/lpcdernoncourt/annotations)
 
 Official documentation for Annotations for The Laravel Framework can be found at the [LaravelCollective](http://laravelcollective.com) website.
