@@ -16,7 +16,7 @@ Add Presenter to your composer.json file:
 
 ```js
 "require": {
-    "lpcdernoncourt/annotations": "5.5.*-dev"
+    "lpcdernoncourt/annotations": "5.5.*"
 }
 ```
 Now, run a composer update on the command line from the root of your project:
